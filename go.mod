@@ -1,4 +1,4 @@
-module oneclient
+module github.com/onedss/oneclient
 
 go 1.16
 
